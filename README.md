@@ -1,4 +1,4 @@
-# Salma Moustafa's Data Analysis Portfolio
+# Salma Moustafa's Data Science Portfolio
 This portfolio contains some of the projects I have worked on while completing my master’s in science in Computer Engineering in the Arab academy for science technology and maritime transport. It shows my experience using programs such as R, Python, SAS Enterprise Miner, SQL, and Tableau. Many of these projects highlight multiple skills needed by data scientists, such as problem identification, data exploration, data cleaning, data sampling, building predictive models, comparing models, data storytelling (communication), creating visualizations, and providing solutions to business problems. Some of these are group projects, for which they showcase my ability to effectively collaborate with others while developing data-driven solutions.
 
 ## Customer Churn Prediction 
