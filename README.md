@@ -6,5 +6,5 @@ This portfolio contains some of the projects I have worked on while completing m
 This project aims to predict customer churn using machine learning techniques. Churn refers to the loss of customers over time, and being able to identify customers who are likely to leave enables businesses to take proactive retention measures. The dataset includes customer demographics, service usage, and contract details. Key steps include data preprocessing, exploratory data analysis (EDA), model training (Logistic Regression, Random Forest, XGBoost), and performance evaluation using accuracy, precision, recall, and AUC-ROC.
 
 ## Spotify Charts
-<link>
+###### https://github.com/sllamaa/spotify-charts
 This project explores and analyzes global and regional Spotify Top 200 chart data to uncover trends in popular music. It involves examining song attributes such as genre, artist popularity, track duration, and chart performance over time. Through data cleaning, visualization, and trend analysis, we identify patterns in hit songs, recurring artists, and country-specific preferences. The goal is to gain insights into what makes a song successful on streaming platforms.
